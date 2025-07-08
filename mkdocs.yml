@@ -1,0 +1,9 @@
+site_name: Monklands Critical Care Education Project
+
+theme:
+  name: material
+
+nav:
+- Home: index.md 
+- Teaching: teaching.md 
+
